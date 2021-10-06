@@ -17,6 +17,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 
 [Link to my GIF!](https://imgur.com/a/hPex7ZI)
+<img src="https://imgur.com/a/aBDI0Gb.gif" width=250><br>
 
 ### Notes
 Had to implement some additional code because setting my label to 0 lines didn't wrap text automatically.
@@ -36,6 +37,8 @@ Had to implement some additional code because setting my label to 0 lines didn't
 
 ### App Walkthrough GIF
 [Link to my GIF!](https://imgur.com/a/1XVdC1n)
+
+<img src="https://imgur.com/a/KJ2ts7x.gif" width=250><br>
 
 ### Notes
 Trouble displaying gif on github.
