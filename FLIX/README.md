@@ -15,11 +15,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
+![unit2 5 09 18 PM](https://user-images.githubusercontent.com/77320378/136288041-13972988-5798-4f1e-8483-29653448a38f.gif)
 
-[Link to my GIF!](https://imgur.com/a/aBDI0Gb)
-
-<img src="https://imgur.com/a/aBDI0Gb.gif" width=250><br>
-![unit1 5 09 18 PM](https://user-images.githubusercontent.com/77320378/136287943-b50268ca-412d-407e-b8f5-397db95ba7c4.gif)
 
 ### Notes
 Had to implement some additional code because setting my label to 0 lines didn't wrap text automatically.
@@ -38,9 +35,8 @@ Had to implement some additional code because setting my label to 0 lines didn't
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-[Link to my GIF!](https://imgur.com/a/KJ2ts7x)
+![unit1 5 09 18 PM](https://user-images.githubusercontent.com/77320378/136288105-af88798f-6b13-4362-a0c4-2c745be43505.gif)
 
-<img src="https://imgur.com/a/KJ2ts7x.gif" width=250><br>
 
 ### Notes
 Trouble displaying gif on github.
