@@ -17,6 +17,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 
 [Link to my GIF!](https://imgur.com/a/aBDI0Gb)
+
 <img src="https://imgur.com/a/aBDI0Gb.gif" width=250><br>
 
 ### Notes
