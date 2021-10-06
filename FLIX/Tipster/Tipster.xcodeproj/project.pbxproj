@@ -22,6 +22,9 @@
 		C9225600270D2BC700EFFFC0 /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92255FF270D2BC700EFFFC0 /* MoviesViewController.swift */; };
 		C9225602270D3CEC00EFFFC0 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9225601270D3CEC00EFFFC0 /* MovieCell.swift */; };
 		C9225605270D44D800EFFFC0 /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = C9225604270D44D800EFFFC0 /* AlamofireImage */; };
+		C9B888FD270DF01C0026E2E9 /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9B888FC270DF01C0026E2E9 /* MovieDetailsViewController.swift */; };
+		C9B888FF270E01C10026E2E9 /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9B888FE270E01C10026E2E9 /* MovieGridViewController.swift */; };
+		C9B88901270E06A20026E2E9 /* MovieGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9B88900270E06A20026E2E9 /* MovieGridCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +67,9 @@
 		C92255F2270D214E00EFFFC0 /* TipsterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsterUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C92255FF270D2BC700EFFFC0 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		C9225601270D3CEC00EFFFC0 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		C9B888FC270DF01C0026E2E9 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
+		C9B888FE270E01C10026E2E9 /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
+		C9B88900270E06A20026E2E9 /* MovieGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridCell.swift; sourceTree = "<group>"; };
 		CCA4A4767DC47F0637828289 /* Pods-TipsterTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TipsterTests.debug.xcconfig"; path = "Target Support Files/Pods-TipsterTests/Pods-TipsterTests.debug.xcconfig"; sourceTree = "<group>"; };
 		EC1E95982F316507949C4858 /* Pods-Tipster.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tipster.debug.xcconfig"; path = "Target Support Files/Pods-Tipster/Pods-Tipster.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -117,7 +123,6 @@
 				CCA4A4767DC47F0637828289 /* Pods-TipsterTests.debug.xcconfig */,
 				9C65A529CF41AA6C3896B07E /* Pods-TipsterTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -151,6 +156,9 @@
 				C92255D3270D214D00EFFFC0 /* ViewController.swift */,
 				C92255FF270D2BC700EFFFC0 /* MoviesViewController.swift */,
 				C92255D5270D214D00EFFFC0 /* Main.storyboard */,
+				C9B88900270E06A20026E2E9 /* MovieGridCell.swift */,
+				C9B888FE270E01C10026E2E9 /* MovieGridViewController.swift */,
+				C9B888FC270DF01C0026E2E9 /* MovieDetailsViewController.swift */,
 				C9225601270D3CEC00EFFFC0 /* MovieCell.swift */,
 				C92255D8270D214E00EFFFC0 /* Assets.xcassets */,
 				C92255DA270D214E00EFFFC0 /* LaunchScreen.storyboard */,
@@ -423,6 +431,9 @@
 			files = (
 				C92255D4270D214D00EFFFC0 /* ViewController.swift in Sources */,
 				C92255D0270D214D00EFFFC0 /* AppDelegate.swift in Sources */,
+				C9B888FD270DF01C0026E2E9 /* MovieDetailsViewController.swift in Sources */,
+				C9B888FF270E01C10026E2E9 /* MovieGridViewController.swift in Sources */,
+				C9B88901270E06A20026E2E9 /* MovieGridCell.swift in Sources */,
 				C92255D2270D214D00EFFFC0 /* SceneDelegate.swift in Sources */,
 				C9225602270D3CEC00EFFFC0 /* MovieCell.swift in Sources */,
 				C9225600270D2BC700EFFFC0 /* MoviesViewController.swift in Sources */,
