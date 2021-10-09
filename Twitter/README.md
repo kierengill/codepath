@@ -23,3 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![unit3_1](https://user-images.githubusercontent.com/77320378/136642272-7958cf27-cd5a-483f-b970-0b69840e3ec1.gif)
